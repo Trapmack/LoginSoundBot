@@ -1,0 +1,3 @@
+Privacy Policy for CustomSoundBot
+Last Updated: March 14, 2025
+We collect Discord member IDs and sound file paths to provide custom sound playback. Data is stored locally on the bot host’s system in config.json and not shared with third parties except Tuna (optional, for sound imports). Contact us at [your-email] for questions.
