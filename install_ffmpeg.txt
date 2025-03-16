@@ -1,0 +1,4 @@
+Download FFmpeg from https://ffmpeg.org/download.html
+- Windows: Extract and add to PATH.
+- macOS: Run `brew install ffmpeg`.
+- Linux: Run `sudo apt install ffmpeg` (Ubuntu/Debian).
